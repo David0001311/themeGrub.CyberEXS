@@ -31,7 +31,7 @@ Before installing, make sure you have:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/themeGrub.CyberEXS.git
+git clone https://github.com/David0001311/themeGrub.CyberEXS.git
 ```
 ### 2. Copy the Theme to GRUB's Themes Directory
 ```bash
